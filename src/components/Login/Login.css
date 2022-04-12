@@ -4,7 +4,7 @@
     border: 1px solid #95A0A7;
     box-sizing: border-box;
     display: flex;
-    justify-content: center
+    justify-content: center;
 }
  
 .form-title{
@@ -37,4 +37,12 @@
     background-color: rgba(255, 153, 0, 0.3);
     border-radius: 5px;
     border: none;
+    cursor: pointer;
+}
+.form-submit:hover {
+    background-color: rgba(255, 153, 0, 0.6);
+}
+.form-link{
+    color: #FF9900;
+    text-decoration: none;
 }
