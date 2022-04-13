@@ -1,3 +1,14 @@
 .review-items-container{
     margin: 0 auto;
 }
+.shipping-btn{
+    width: 200px;
+    height: 35px;
+    background-color: rgba(255, 153, 0, 0.4);
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.shipping-btn:hover {
+    background-color: rgba(255, 153, 0, 0.8);
+}
